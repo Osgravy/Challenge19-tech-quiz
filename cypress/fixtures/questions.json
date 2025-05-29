@@ -1,0 +1,12 @@
+[
+    {
+      "question": "What is React?",
+      "options": [
+        "A JavaScript library for building user interfaces",
+        "A programming language",
+        "A database",
+        "A CSS framework"
+      ],
+      "correctAnswer": "A JavaScript library for building user interfaces"
+    }
+  ]
